@@ -1,0 +1,3 @@
+- [Edward Hieatt and Rob Mee. Repository pattern.](https://martinfowler.com/eaaCatalog/repository.html)
+- [The Repository pattern](https://learn.microsoft.com/previous-versions/msp-n-p/ff649690(v=pandp.10))
+- [Design the infrastructure persistence layer](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
